@@ -1,1 +1,1 @@
-# jsQR
+A test for using jsQR library
